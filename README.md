@@ -1,6 +1,7 @@
 # chumering
 - Roblox game developer
 - Live in South Korea
+- Also known as dwjk64
 
 ### Currently working on
 - [Sol's RNG](https://www.roblox.com/games/15532962292/Sols-RNG)
