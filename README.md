@@ -1,16 +1,17 @@
-## Hi there 👋
+# chumering
+- Roblox game developer
+- Live in South Korea
 
-<!--
-**chumering/chumering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working on
+- [Sol's RNG](https://www.roblox.com/games/15532962292/Sols-RNG)
 
-Here are some ideas to get you started:
+### Accounts
+- [Roblox](https://www.roblox.com/users/1343308718/profile)
+- [Discord](https://discord.gg/solsrng) (chumering / 687562947790503974)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- Lua/Luau (Mainly)
+- JavaScript/TypeScript (Sometimes)
+
+### Trivia
+- I don't use github that much. if you have anything to say, feel free to dm in discord!
