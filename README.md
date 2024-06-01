@@ -19,5 +19,5 @@
 - If you have anything to say, feel free to dm in discord!
 
 ### Cat
-- I lvoe cat
+- I luv cat
 - really much
