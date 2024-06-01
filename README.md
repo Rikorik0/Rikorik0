@@ -15,4 +15,9 @@
 - JavaScript/TypeScript (Sometimes)
 
 ### Trivia
-- I don't use github that much. if you have anything to say, feel free to dm in discord!
+- I don't use github that much.
+- If you have anything to say, feel free to dm in discord!
+
+### Cat
+- I lvoe cat
+- really much
