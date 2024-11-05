@@ -9,7 +9,7 @@
 
 ### Accounts
 - [Roblox](https://www.roblox.com/users/1343308718/profile)
-- [Discord](https://discord.gg/solsrng) (chumering / 687562947790503974)
+- [Discord](https://discord.gg/solsrng) (rikoring / 687562947790503974)
 
 ### Languages
 - Lua/Luau (Mainly)
