@@ -18,6 +18,12 @@
 - Lua/Luau (Mainly)
 - JavaScript/TypeScript (Sometimes)
 
+## Hobbies
+- drawing (some of my pfps I drew myself)
+- programming (why not)
+- ui/ux designing
+- gaming (also why not)
+
 ## Trivia
 - I don't use github that much.
 - If you have anything to say, feel free to dm in discord! (rikoring)
