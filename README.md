@@ -1,6 +1,6 @@
 <div width=100% align=center>
 <p><sub>バカ<br>\/</sub></p>
-<p align="center"> <img width="350" height="350"src="https://github.com/Rikorik0.png"> </p>
+<p align="center"> <img width="500" height="500"src="https://github.com/Rikorik0.png"> </p>
 <h2>Rikoring</h2>
 
 <p><b>Roblox</b> game developer</p>
@@ -36,3 +36,4 @@
 <h2>Cat</h2>
 <p>I luv cat</p>
 <p>really much</p>
+</div>
