@@ -1,4 +1,5 @@
 <div width=100% align=center>
+<p><sub>バカ<br>\/</sub></p>
 <p align="center"> <img width="350" height="350"src="https://github.com/Rikorik0.png"> </p>
 <h2>Rikoring</h2>
 
