@@ -13,7 +13,7 @@
 <p><b><a href="https://www.roblox.com/games/134738544703115">playground</a></b> - roblox game where you can chill</p>
 
 <h2>Accounts / Contact</h2>
-<p><b><a href="https://www.roblox.com/users/1343308718/profile">Roblox</a></b> - Rik0nya</p>
+<p><b><a href="https://www.roblox.com/users/1343308718/profile">Roblox</a></b> - Aihoshi_Rin</p>
 <p><b>Discord</b> - rikoring / 687562947790503974</p>
 <p><b>Gmail</b> - rikoringchan@gmail.com</p>
 
