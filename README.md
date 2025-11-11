@@ -8,7 +8,7 @@
 <p>Also known as <b>dwjk64/chumering</b></p>
 
 <h2>Currently working on</h2>
-<p><b><a href="https://www.roblox.com/games/15532962292">nothing</p>
+<p><b>nothing</b></p>
 
 <h2>Accounts / Contact</h2>
 <p><b><a href="https://www.roblox.com/users/1343308718/profile">Roblox</a></b> - Rik0pyon</p>
