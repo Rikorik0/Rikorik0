@@ -8,8 +8,7 @@
 <p>Also known as <b>dwjk64/chumering</b></p>
 
 <h2>Currently working on</h2>
-<p><b><a href="https://www.roblox.com/games/15532962292">Sol's RNG</a></b> - <s>gambling</s> roblox game</p>
-<p><b><a href="https://www.roblox.com/games/134738544703115">playground</a></b> - roblox game where you can chill</p>
+<p><b><a href="https://www.roblox.com/games/15532962292">nothing</p>
 
 <h2>Accounts / Contact</h2>
 <p><b><a href="https://www.roblox.com/users/1343308718/profile">Roblox</a></b> - Rik0pyon</p>
